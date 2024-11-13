@@ -1,6 +1,6 @@
 # Hey there! I'm Harshit Srivastava 👋
 
-Welcome to my GitHub profile! I'm an **Aspiring AI Engineer** with a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Data Science**. I enjoy solving real-world problems and building projects that leverage the power of data and algorithms. 
+Welcome to my GitHub profile! I'm a **Second-year CSE BTech student** at **National Institute of Technology, Arunachal Pradesh**, with a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Data Science**. I enjoy solving real-world problems and building projects that leverage the power of data and algorithms. 
 
 ### 🚀 About Me:
 - **Languages & Tools**: Python, Java, MySQL, DSA (Java), scikit-learn, OpenCV, PyQt6
